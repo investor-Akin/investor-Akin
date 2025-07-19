@@ -27,13 +27,14 @@ I’m a passionate and curious learner with a growing love for web development. 
 ### 🌟 Featured Projects
 
 - [Crave Spot](https://github.com/investor-Akin/crave-spot)  
-  _Discover delicious cravings and sharpen your frontend skills!_
+  _Discover delicious cravings and sharpen your frontend skills!
+Built with HTML, CSS, and Bootstrap. Functionality is a work-in-progress, with JavaScript integration being added as I learn and develop._
 
 - [Palindrome Checker](https://github.com/investor-Akin/Palindrome-Checker)  
   _A handy tool to tell if your word is a palindrome (and a great coding challenge!)._
 
 - [Grade Checker](https://github.com/investor-Akin/Grade-checker)  
-  _Smart way to check and manage student grades with style._
+  _A smart way to check your score or grade (1–100) and instantly see your result._
 
 ---
 
