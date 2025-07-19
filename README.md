@@ -11,6 +11,7 @@ I’m a passionate and curious learner with a growing love for web development. 
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff) 
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=fff)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=222)
+  ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=222)
 
 - **Strengths:**  
   Breaking down problems | Building step-by-step | Explaining code simply
